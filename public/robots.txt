@@ -1,0 +1,3 @@
+User-agent: *
+# Demonstration site: keep out of search results.
+Disallow: /
